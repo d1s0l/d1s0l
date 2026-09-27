@@ -88,7 +88,7 @@ Development Practices
   <a href="https://github.com/d1s0l">
     <img src="https://img.shields.io/badge/GitHub-d1s0l-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://t.me/d1s0l">
+  <a href="https://t.me/idkayowoka">
     <img src="https://img.shields.io/badge/Telegram-@d1s0l-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
