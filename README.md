@@ -127,4 +127,29 @@ const dmitry = {
 };
 ```
 
-### 🚀 Open to frontend opportunities
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=d1s0l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1s0l&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=d1s0l&theme=tokyonight&hide_border=true"
+    width="70%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=d1s0l&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
+</p>
