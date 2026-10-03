@@ -1,5 +1,7 @@
 [🇷🇺 Русская версия](README.md)
+
 ---
+
 # 👋 Hi, I'm Dmitry
 
 ### Junior Frontend Developer
