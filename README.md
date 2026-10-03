@@ -1,3 +1,7 @@
+[🇬🇧 English version](README.en.md)
+
+# 👋 Привет! Я Дмитрий
+
 # 👋 Привет! Я Дмитрий
 
 ### Junior Frontend Developer
