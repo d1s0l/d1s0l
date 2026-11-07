@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Dmitry
 
-### Junior Frontend Developer
+### Frontend Developer
 
 Frontend Developer with commercial experience building web products from idea and design to production.
 
