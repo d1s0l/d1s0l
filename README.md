@@ -4,7 +4,7 @@
 
 # 👋 Привет! Я Дмитрий
 
-### Junior Frontend Developer
+### Frontend Developer
 
 Мне 21 год, я frontend-разработчик, специализирующийся на **React, Next.js и TypeScript**.
 
